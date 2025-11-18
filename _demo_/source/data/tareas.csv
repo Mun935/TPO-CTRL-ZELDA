@@ -1,0 +1,10 @@
+﻿task_id,task_name,client,seniority,description
+TAR011,Actualizar inventario,TechSolutions SA,Junior,Cargar manualmente los productos iniciales en la base de datos.
+TAR012,Diseñar API REST,AgroIndustria SRL,Senior,Crear servicios para exponer datos de sensores a aplicaciones externas.
+TAR021,Crear manual de usuario,TechSolutions SA,Junior,Redactar guía básica para el sistema de inventario.
+TAR022,Entrenar modelo predictivo,AgroIndustria SRL,Senior,Desarrollar modelo de predicción de rendimiento agrícola.
+TAR031,Migrar datos antiguos,TechSolutions SA,Senior,Importar registros históricos al nuevo sistema.
+TAR032,Calibrar sensores,AgroIndustria SRL,Junior,Revisar el correcto funcionamiento de sensores de humedad.
+TAR042,Desplegar app móvil,AgroIndustria SRL,Senior,Lanzar aplicación de monitoreo en Android y iOS.
+TAR051,Migrar sistema legado,TechSolutions SA,Senior,Llevar funcionalidades del sistema viejo al nuevo entorno.
+TAR052,Capacitar personal agrícola,AgroIndustria SRL,Junior,Dar soporte en uso de la plataforma de monitoreo.
